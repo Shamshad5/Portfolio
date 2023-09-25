@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Shamshad5/Portfolio.git/static/css/main.9c9d7234.css",
+    "main.js": "/Shamshad5/Portfolio.git/static/js/main.f22622fa.js",
+    "static/media/ecommerce.png": "/Shamshad5/Portfolio.git/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/sidebar.png": "/Shamshad5/Portfolio.git/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/Shamshad5/Portfolio.git/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/boy.png": "/Shamshad5/Portfolio.git/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/Resume.pdf": "/Shamshad5/Portfolio.git/static/media/Resume.fef0af21c818f2351cd3.pdf",
+    "static/media/glassesimoji.png": "/Shamshad5/Portfolio.git/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/hoc.png": "/Shamshad5/Portfolio.git/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/thumbup.png": "/Shamshad5/Portfolio.git/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Shamshad5/Portfolio.git/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Shamshad5/Portfolio.git/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Shamshad5/Portfolio.git/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Shamshad5/Portfolio.git/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Shamshad5/Portfolio.git/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Shamshad5/Portfolio.git/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Shamshad5/Portfolio.git/index.html",
+    "main.9c9d7234.css.map": "/Shamshad5/Portfolio.git/static/css/main.9c9d7234.css.map",
+    "main.f22622fa.js.map": "/Shamshad5/Portfolio.git/static/js/main.f22622fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9d7234.css",
+    "static/js/main.f22622fa.js"
+  ]
+}
